@@ -16,3 +16,8 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 2
